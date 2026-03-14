@@ -23,6 +23,7 @@ Semester: 1st Semester ((jan-june))
 ---
 
 ##
+```
 MCA-Sem1-Assignments-2026/
 ├── MCS-201-C-and-Python/
 ├── MCS-208-Data-Structures-Algorithms/
@@ -34,6 +35,7 @@ MCA-Sem1-Assignments-2026/
 ├── MCSL-216-DAA-Web-Design-Lab/
 ├── MCSL-217-Software-Engineering-Lab/
 └── README.md
+```
 
 
 
